@@ -1,3 +1,13 @@
+/*
+*   File:                   ContainsDuplicate.java
+*   Project:                LeetCode
+*   Date:                   08/10/22
+*   Author:                 Faint
+*   Description:
+*
+*   A solution to LeetCodes Contains Duplicate problem.
+*/
+
 import java.util.*;
 
 class Solution {
